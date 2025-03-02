@@ -67,12 +67,13 @@
 # 2025.03.02最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:freeaicc
+- 官方WeChat:David_Li_Haiya
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
+![image](https://github.com/user-attachments/assets/86afffa2-19a7-43cf-b16e-ea9c6e6751e0)
+
 
 # FreeWorkPhone：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！
